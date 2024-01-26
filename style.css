@@ -1,13 +1,13 @@
 body{
   margin: 0;
   padding: 0;
-  background: #161b22;
+  background: #0d1117;
   background-size: cover;
 }
 .box{
   border-radius: 90px;
   width: 450px;
-  background: #0d1117;
+  background: #161b22;
   padding: 40px;
   text-align: center;
   margin: auto;
