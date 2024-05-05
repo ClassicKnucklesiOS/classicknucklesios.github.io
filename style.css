@@ -20,7 +20,7 @@ body{
   left: 50%;
   transform: translate(-50%, -50%);
   width: 450px;
-  background: rgba(0, 0, 0, 0.4);
+  background: #010409; /* rgba(0, 0, 0, 0.4) */
   padding: 40px;
   text-align: center;
   color: white;
