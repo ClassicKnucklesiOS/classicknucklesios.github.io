@@ -25,6 +25,9 @@ body{
   text-align: center;
   color: white;
   font-family: 'Helvetica',sans-serif;
+  animation: fadeInAnimation ease 3s;
+  animation-iteration-count: 1;
+  animation-fill-mode: forwards;
 }
 .box-img{
   border-radius: 0%;
@@ -60,4 +63,12 @@ u1{
 }
 .box li a:hover{
   color: #b9b9b9;
+}
+@keyframes fadeInAnimation {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
 }
