@@ -1,7 +1,7 @@
 body{
   margin: 0;
   padding: 0; 
-  background: rgba(33, 39, 55, 1); /* #0d1117 */
+  background: #0d1117; 
   background-size: cover;
 }
 #canvas {
@@ -20,7 +20,7 @@ body{
   left: 50%;
   transform: translate(-50%, -50%);
   width: 450px; 
-  background: #0d1117; /* #010409 */
+  background: #010409;
   padding: 40px;
   text-align: center;
   color: white;
